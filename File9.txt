@@ -2,3 +2,5 @@ sing
 sang
 song
 dance
+play
+run
